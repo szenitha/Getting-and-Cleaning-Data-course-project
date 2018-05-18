@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-course-project
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. 
 
-Dataset has been extracted from UCI machine learning repository for this purpose (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+[Dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) has been extracted from UCI machine learning repository for this purpose.
 
 ## Data Set Information:
 
@@ -16,7 +16,7 @@ test data.
 Prepare tidy data that can be used for later analysis. 
 
 ## Raw data and Sub tasks to achieve goal:
-Information about the raw data and the workflow followed to get the tidy data can be found https://github.com/szenitha/Getting-and-Cleaning-Data-course-project/blob/master/CodeBook.md.
+Information about the raw data and the workflow followed to get the tidy data can be found [CodeBook.md](https://github.com/szenitha/Getting-and-Cleaning-Data-course-project/blob/master/CodeBook.md).
 
 ## Result:
-The code used to accomplish the tasks can be found https://github.com/szenitha/Getting-and-Cleaning-Data-course-project/blob/master/run_analysis.R. The tidy data has been uploaded https://github.com/szenitha/Getting-and-Cleaning-Data-course-project/blob/master/tidy.txt
+The code used to accomplish the tasks can be found in the file [run_analysis.R](https://github.com/szenitha/Getting-and-Cleaning-Data-course-project/blob/master/run_analysis.R). The tidy data has been uploaded as [tidy.txt](https://github.com/szenitha/Getting-and-Cleaning-Data-course-project/blob/master/tidy.txt).
