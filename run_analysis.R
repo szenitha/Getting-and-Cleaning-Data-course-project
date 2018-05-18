@@ -68,4 +68,4 @@ tidy<-tidy %>%
   summarize_all("mean")  #Step 6 b) take the average of the measurements pertaining to one subject and activity combination
   
 #write the resulting dataframe into a file
-write.table(tidy,"D://tidy.txt")
+write.table(tidy,"D://tidy.txt",row.names=FALSE)
