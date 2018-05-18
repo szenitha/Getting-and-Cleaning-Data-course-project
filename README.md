@@ -3,7 +3,7 @@ The purpose of this project is to demonstrate your ability to collect, work with
 
 Dataset has been extracted from UCI machine learning repository for this purpose (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-##Data Set Information:
+## Data Set Information:
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone 
@@ -19,4 +19,4 @@ Prepare tidy data that can be used for later analysis.
 Information about the raw data and the workflow followed to get the tidy data can be found https://github.com/szenitha/Getting-and-Cleaning-Data-course-project/blob/master/CodeBook.md.
 
 ## Result:
-The tidy dataset can be found  https://github.com/szenitha/Getting-and-Cleaning-Data-course-project/blob/master/run_analysis.R
+The code used to accomplish the tasks can be found https://github.com/szenitha/Getting-and-Cleaning-Data-course-project/blob/master/run_analysis.R. The tidy data has been uploaded https://github.com/szenitha/Getting-and-Cleaning-Data-course-project/blob/master/tidy.txt
